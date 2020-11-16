@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "dbadmin",
+    "password": "db_admin123",
+    "database": "db_qf_pim",
+    "host": "mysql669.umbler.com",
+    "port": 41890,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "dbadmin",
+    "password": "db_admin123",
+    "database": "db-db_qf_pim",
+    "host": "mysql669.umbler.com",    
+    "dialect": "mysql"
+  }
+}
